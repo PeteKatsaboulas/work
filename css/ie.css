@@ -1,0 +1,10 @@
+.container .poster {
+  display: block;
+}
+.container .video-wrap {
+ display:none;
+}
+.container video {
+  display: none;
+}	
+
